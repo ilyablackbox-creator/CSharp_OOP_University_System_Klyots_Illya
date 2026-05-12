@@ -36,4 +36,5 @@ namespace Praktuchna_4_Klyots_Illya
 
         public override string ToString() => $"Vector({this.X}; {this.Y}; {this.Z})";
     }
+    //аівівп
 }
