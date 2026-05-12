@@ -39,4 +39,5 @@ namespace Praktuchna_3_Klyots_Illya
             return _logAccumulator.ToString();
         }
     }
+    //у5
 }
