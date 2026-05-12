@@ -13,6 +13,13 @@ namespace Praktuchna_3_Klyots_Illya
 
         public static void LogInfo(string message) => Console.WriteLine($"[INFO] {DateTime.Now}: {message}");
 
+        public static void LogSuccess(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"[SUCCESS]: {message}");
+            Console.ResetColor();
+        }
+
         public void Log(string level, string message)
         {
             _logAccumulator.AppendLine($"[{level}] {message}");
@@ -39,4 +46,5 @@ namespace Praktuchna_3_Klyots_Illya
             return _logAccumulator.ToString();
         }
     }
+    //нга
 }
