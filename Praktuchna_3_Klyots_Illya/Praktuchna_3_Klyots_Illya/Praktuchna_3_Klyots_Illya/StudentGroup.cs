@@ -144,5 +144,18 @@ namespace Praktuchna_3_Klyots_Illya
                 }
             }
         }
+
+        public string GetGroupAnalytics()
+        {
+            if (students.Count == 0) return "Група порожня.";
+
+            int totalLetters = 0;
+            foreach (var student in students)
+            {
+                totalLetters += student.FullName.Replace(" ", "").Length;
+            }
+
+            return $"Аналітика групи: Студентів - {students.Count}, Всього літер у ПІБ - {totalLetters}";
+        }
     }
 }
