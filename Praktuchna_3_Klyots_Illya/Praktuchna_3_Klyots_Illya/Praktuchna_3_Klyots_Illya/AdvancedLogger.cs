@@ -46,5 +46,9 @@ namespace Praktuchna_3_Klyots_Illya
             return _logAccumulator.ToString();
         }
     }
+<<<<<<< HEAD
     //нга
+=======
+    //у5
+>>>>>>> feature/advanced-logger
 }
