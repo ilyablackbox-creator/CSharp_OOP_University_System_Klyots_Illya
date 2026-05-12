@@ -94,7 +94,7 @@ namespace Praktuchna_3_Klyots_Illya
             {
                 sb.AppendLine($"Додаткові відомості: {student.Notes}");
             }
-
+            //ок
             sb.AppendLine("\nДата видачі: " + DateTime.Now.ToShortDateString());
             return sb.ToString();
         }
