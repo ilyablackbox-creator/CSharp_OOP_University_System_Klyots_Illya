@@ -62,7 +62,7 @@ namespace Praktuchna_3_Klyots_Illya
             for (int i = 0; i < iterations; i++) s += "a";
             sw.Stop();
             long stringTime = sw.ElapsedMilliseconds;
-
+            //ок
             sw.Restart();
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < iterations; i++) sb.Append("a");
