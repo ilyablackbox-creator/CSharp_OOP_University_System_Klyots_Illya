@@ -122,6 +122,10 @@ namespace Praktuchna_3_Klyots_Illya
                             }
                             else Console.WriteLine("Студента не знайдено.");
                             break;
+                        case "text":
+                            Console.WriteLine("Введіть текст:");
+                            string txt = Console.ReadLine();
+                            break;
                     }
                 }
                 catch (Exception ex)
@@ -335,4 +339,5 @@ namespace Praktuchna_3_Klyots_Illya
             }
         }
     }
+    //467
 }
