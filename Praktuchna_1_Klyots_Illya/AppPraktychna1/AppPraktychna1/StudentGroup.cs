@@ -61,9 +61,6 @@ namespace AppPraktychna1
 
         public void SaveToFile(string fileName)
         {
-
-
-
             try
             {
                 string json = JsonConvert.SerializeObject(students, Newtonsoft.Json.Formatting.Indented);

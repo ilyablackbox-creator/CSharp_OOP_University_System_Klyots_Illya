@@ -1,0 +1,8 @@
+# Всі папки з результатом компіляції та тимчасовими файлами
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates

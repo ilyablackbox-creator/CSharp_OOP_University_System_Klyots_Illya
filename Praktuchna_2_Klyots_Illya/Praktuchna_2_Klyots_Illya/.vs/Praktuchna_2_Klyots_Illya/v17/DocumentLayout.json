@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{F6E9B5FF-339E-4E3E-B202-35A3FD55301C}|Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya.csproj|solutionrelative:praktuchna_2_klyots_illya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F6E9B5FF-339E-4E3E-B202-35A3FD55301C}|Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya.csproj|d:\\\u0442\u0440\u043E\u0446\u044C\u043A\u0438\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\csharp_oop_university_system_klyots_illya\\praktuchna_2_klyots_illya\\praktuchna_2_klyots_illya\\praktuchna_2_klyots_illya\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E9B5FF-339E-4E3E-B202-35A3FD55301C}|Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya.csproj|solutionrelative:praktuchna_2_klyots_illya\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6E9B5FF-339E-4E3E-B202-35A3FD55301C}|Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya.csproj|d:\\\u0442\u0440\u043E\u0446\u044C\u043A\u0438\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\csharp_oop_university_system_klyots_illya\\praktuchna_2_klyots_illya\\praktuchna_2_klyots_illya\\praktuchna_2_klyots_illya\\portlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E9B5FF-339E-4E3E-B202-35A3FD55301C}|Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya.csproj|solutionrelative:praktuchna_2_klyots_illya\\portlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6E9B5FF-339E-4E3E-B202-35A3FD55301C}|Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya.csproj|d:\\\u0442\u0440\u043E\u0446\u044C\u043A\u0438\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\csharp_oop_university_system_klyots_illya\\praktuchna_2_klyots_illya\\praktuchna_2_klyots_illya\\praktuchna_2_klyots_illya\\gradejournal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E9B5FF-339E-4E3E-B202-35A3FD55301C}|Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya.csproj|solutionrelative:praktuchna_2_klyots_illya\\gradejournal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E9B5FF-339E-4E3E-B202-35A3FD55301C}|Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya.csproj|d:\\\u0442\u0440\u043E\u0446\u044C\u043A\u0438\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\csharp_oop_university_system_klyots_illya\\praktuchna_2_klyots_illya\\praktuchna_2_klyots_illya\\praktuchna_2_klyots_illya\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E9B5FF-339E-4E3E-B202-35A3FD55301C}|Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya.csproj|solutionrelative:praktuchna_2_klyots_illya\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6E9B5FF-339E-4E3E-B202-35A3FD55301C}|Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya.csproj|d:\\\u0442\u0440\u043E\u0446\u044C\u043A\u0438\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\csharp_oop_university_system_klyots_illya\\praktuchna_2_klyots_illya\\praktuchna_2_klyots_illya\\praktuchna_2_klyots_illya\\portmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PortLogger.cs",
               "DocumentMoniker": "D:\\\u0422\u0440\u043E\u0446\u044C\u043A\u0438\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CSharp_OOP_University_System_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\PortLogger.cs",
               "RelativeDocumentMoniker": "Praktuchna_2_Klyots_Illya\\PortLogger.cs",
@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "Praktuchna_2_Klyots_Illya\\Program.cs",
               "ToolTip": "D:\\\u0422\u0440\u043E\u0446\u044C\u043A\u0438\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CSharp_OOP_University_System_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\Program.cs",
               "RelativeToolTip": "Praktuchna_2_Klyots_Illya\\Program.cs",
-              "ViewState": "AgIAAPEAAAAAAAAAAAAwwCAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T06:53:22.932Z",
               "EditorCaption": ""
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GradeJournal.cs",
               "DocumentMoniker": "D:\\\u0422\u0440\u043E\u0446\u044C\u043A\u0438\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CSharp_OOP_University_System_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\GradeJournal.cs",
               "RelativeDocumentMoniker": "Praktuchna_2_Klyots_Illya\\GradeJournal.cs",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "StudentGroup.cs",
               "DocumentMoniker": "D:\\\u0422\u0440\u043E\u0446\u044C\u043A\u0438\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CSharp_OOP_University_System_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\Praktuchna_2_Klyots_Illya\\StudentGroup.cs",
               "RelativeDocumentMoniker": "Praktuchna_2_Klyots_Illya\\StudentGroup.cs",
@@ -123,7 +123,8 @@
               "RelativeToolTip": "Praktuchna_2_Klyots_Illya\\StudentGroup.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:08:50.311Z"
+              "WhenOpened": "2026-05-07T07:08:50.311Z",
+              "EditorCaption": ""
             }
           ]
         }

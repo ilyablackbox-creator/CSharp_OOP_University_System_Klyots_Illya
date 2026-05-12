@@ -17,7 +17,7 @@ namespace AppPraktychna1
 
             while (true)
             {
-                Console.WriteLine($"\n МЕНЮ УПРАВЛІННЯ ГРУПОЮ П-21 ");
+                Console.WriteLine($"\n Меню управління групою П-121 ");
                 Console.WriteLine("1. Додати студента");
                 Console.WriteLine("2. Видалити студента (за номером залікової)");
                 Console.WriteLine("3. Вивести всіх студентів (пагінація по 10)");
@@ -120,7 +120,7 @@ namespace AppPraktychna1
                         case "7":
                             int total = group.GroupSize;
                             double perc = total > 0 ? (double)group.GetExcellentStudents().Count / total * 100 : 0;
-                            Console.WriteLine($"Група: {total} чол. | Сер. бал: {group.AverageGroupGrade:F2} | Відмінники: {perc:F1}%");
+                            Console.WriteLine($"Група: {total} чоловік | Сер. бал: {group.AverageGroupGrade:F2} | Відмінники: {perc:F1}%");
                             break;
 
                         case "8":

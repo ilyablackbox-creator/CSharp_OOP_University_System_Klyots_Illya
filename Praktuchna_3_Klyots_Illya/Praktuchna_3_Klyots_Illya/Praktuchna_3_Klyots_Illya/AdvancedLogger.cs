@@ -11,6 +11,8 @@ namespace Praktuchna_3_Klyots_Illya
         private StringBuilder _logs = new StringBuilder();
         private StringBuilder _logAccumulator = new StringBuilder();
 
+        public static void LogInfo(string message) => Console.WriteLine($"[INFO] {DateTime.Now}: {message}");
+
         public void Log(string level, string message)
         {
             _logAccumulator.AppendLine($"[{level}] {message}");
