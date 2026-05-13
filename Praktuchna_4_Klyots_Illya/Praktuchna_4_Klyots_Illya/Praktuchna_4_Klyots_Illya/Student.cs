@@ -16,7 +16,17 @@ namespace Praktuchna_4_Klyots_Illya
         private string personalEmail;
         private byte[] labGrades = new byte[10];
 
-        public int CourseProgress { get; set; } 
+        private int courseProgress;
+        public int CourseProgress
+        {
+            get => courseProgress;
+            set
+            {
+                if (value < 0 || value > 100)
+                    throw new ArgumentException("Прогрес має бути від 0 до 100%");
+                courseProgress = value;
+            }
+        }
         public List<GradePoint> GradesPoints { get; set; } = new List<GradePoint>();
         public required DateTime DateOfBirth { get; init; }
         public required DateTime EnrollmentDate { get; init; }

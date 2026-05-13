@@ -256,11 +256,18 @@ namespace Praktuchna_4_Klyots_Illya
                 {
                     FullName = name,
                     RecordBookNumber = id,
-                    PersonalEmail = email, // Додайте це
-                    DateOfBirth = birthDate, // Додайте це
-                    EnrollmentDate = DateTime.Now, // Додайте це
+                    PersonalEmail = email, 
+                    DateOfBirth = birthDate, 
+                    EnrollmentDate = DateTime.Now, 
                     Status = StudentStatus.Active
                 };
+
+                Console.Write("Введіть прогрес навчання (0-100%): ");
+                if (int.TryParse(Console.ReadLine(), out int progress))
+                {
+                    newStudent.CourseProgress = progress;
+                }
+
                 Console.Write("Введіть середній бал: ");
                 if (double.TryParse(Console.ReadLine(), out double grade)) newStudent.UpdateAverageGrade(grade);
 
