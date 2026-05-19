@@ -1,0 +1,60 @@
+* [33mfdab8b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;33mtag: [m[1;33mv4.0[m[33m)[m docs: final review of Praktuchna 4 requirements
+* [33m6194881[m refactor: clean up comments and unused code
+* [33mcc3617b[m refactor: optimize operator overloading logic
+* [33m46d8f29[m test: verify variant 2 implementation
+* [33m0ce9e47[m feat: add specific logic and operators for variant 2
+* [33mdb89382[m feat: implement individual variant 2 requirements
+* [33mcabe440[m feat: add validation for user input in new menu items
+* [33m55eb5c8[m feat: implement console UI for operator demonstration
+* [33me4adf67[m feat: add menu options 22-24 for advanced testing and BestStudent
+* [33me6b020f[m feat: add menu options 19-21 for basic operator testing
+* [33m7272778[m feat: implement student existence check in indexer
+* [33mad6e3a2[m feat: add validation for group merge logic
+* [33m40f4bae[m feat: add indexer [] for student search by ID
+* [33mca1eb4a[m feat: implement operator + for merging StudentGroups
+* [33m7a6155a[m feat: add validation for CourseProgress (0-100)
+* [33mcd5c778[m feat: implement operator + for student teams
+* [33m4038c94[m feat: implement comparison operators for average score
+* [33m4bee49c[m feat: add CourseProgress property to Student class
+* [33m3a437f8[m feat: add increment and decrement for GradePoint
+* [33m898f83a[m feat: implement operator true and false (Value >= 8)
+* [33m62e21e5[m feat: implement comparison and implicit conversion for GradePoint
+* [33mf5d62ff[m feat: create GradePoint class with Value field
+*   [33mca2967b[m Merge branch 'feature/vector-class' into develop :wq# the commit.
+[32m|[m[33m\[m  
+[32m|[m * [33mc458ef7[m[33m ([m[1;32mfeature/vector-class[m[33m)[m feat: add vector conversions
+[32m|[m * [33m02d9131[m feat: add vector operators
+* [33m|[m [33mab823f0[m feat: implement Vector properties X, Y, Z
+* [33m|[m [33m28a0a8c[m feat: setup base core logic for operators
+* [33m|[m [33mfda6481[m feat: define operator overloading interfaces
+* [33m|[m [33mbdac0a3[m feat: initial project structure for Praktuchna 4
+[33m|[m[33m/[m  
+*   [33m9decfc9[m[33m ([m[1;32mfeature/student-operators[m[33m, [m[1;32mfeature/group-operators[m[33m, [m[1;32mfeature/gradepoint-class[m[33m)[m merge: базове ядро проєкту інтегровано
+[34m|[m[35m\[m  
+[34m|[m * [33m68c73b3[m[33m ([m[1;32mfeature/operator-overloading-core[m[33m)[m feat: додано початкову структуру проєкту та REPORT.md
+* [35m|[m [33m0ade110[m feat: початкова структура проекту та базові класи
+* [35m|[m [33m8d2f8eb[m feat: реалізовано оператори + та - для класу Vector
+[35m|[m[35m/[m  
+* [33m61cacdb[m feat: додано файли проекту для Практичної №4
+* [33m6b8fd53[m[33m ([m[1;33mtag: [m[1;33mv3.0[m[33m, [m[1;31morigin/refactor/final-cleanup[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mrefactor/operators-cleanup[m[33m, [m[1;32mrefactor/final-cleanup[m[33m, [m[1;32mfeature/variant-2[m[33m, [m[1;32mfeature/variant-1[m[33m)[m refactor: фінальне очищення коду та форматування перед здачею
+* [33m756cc54[m[33m ([m[1;31morigin/feature/variant-4[m[33m, [m[1;32mfeature/variant-4[m[33m)[m feat: реалізовано метод генерації характеристики (варіант 4)
+* [33md67a304[m[33m ([m[1;31morigin/feature/performance-benchmark[m[33m, [m[1;32mfeature/performance-benchmark[m[33m)[m feat: додано тест продуктивності для String vs StringBuilder
+* [33m3ade3f1[m[33m ([m[1;31morigin/feature/menu-text-module[m[33m, [m[1;32mfeature/menu-text-module[m[33m)[m feat: інтегровано текстовий модуль у меню програми
+* [33mf391a94[m[33m ([m[1;31morigin/feature/group-text-methods[m[33m, [m[1;32mfeature/group-text-methods[m[33m)[m fix: розв'язання конфлікту злиття в AdvancedLogger
+* [33m50d6cc0[m[33m ([m[1;31morigin/feature/student-string-extensions[m[33m, [m[1;32mfeature/student-string-extensions[m[33m)[m feat: реалізовано методи розширення для обробки ПІБ
+*   [33md4a4665[m fix: розв'язання конфлікту злиття в AdvancedLogger
+[36m|[m[1;31m\[m  
+[36m|[m * [33mf719441[m[33m ([m[1;31morigin/feature/advanced-logger[m[33m, [m[1;32mfeature/advanced-logger[m[33m)[m feat: додано статичний клас розширеного логування
+* [1;31m|[m [33mff3ce39[m feat: додано статичний клас розширеного логування
+* [1;31m|[m [33m26843a2[m[33m ([m[1;31morigin/feature/text-processor-core[m[33m, [m[1;32mfeature/text-processor-core[m[33m)[m feat: додано ядро обробки тексту та StringBuilder
+[1;31m|[m[1;31m/[m  
+* [33m202360e[m fix: виправлено доступність класів Student та StudentGroup (CS0051)
+* [33m0e09bf0[m docs: додано початкову структуру проєкту для Практичної №3 та файл звіту
+* [33m0c72ca1[m[33m ([m[1;33mtag: [m[1;33mv2.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature/refactoring[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeature/refactoring[m[33m)[m refactor: final code cleanup and CS0136 fix
+* [33ma1cc53c[m[33m ([m[1;31morigin/feature/persistence[m[33m, [m[1;32mfeature/persistence[m[33m)[m feat: implement data persistence logic
+* [33m6ce2ed7[m[33m ([m[1;31morigin/feature/menu-integration[m[33m, [m[1;32mfeature/menu-integration[m[33m)[m feat: integrate new logic into console menu
+* [33mbaf4eb1[m[33m ([m[1;31morigin/feature/stringbuilder-logger[m[33m, [m[1;32mfeature/stringbuilder-logger[m[33m)[m feat: implement PortLogger with StringBuilder
+* [33m5c74c1d[m[33m ([m[1;31morigin/feature/port-matrix[m[33m, [m[1;32mfeature/port-matrix[m[33m)[m feat: implement 16x16 PortMatrix logic
+* [33m98909cc[m[33m ([m[1;31morigin/feature/port-class[m[33m, [m[1;32mfeature/port-class[m[33m)[m feat: create Port class with basic properties
+* [33m0b7e961[m[33m ([m[1;31morigin/feature/student-lab-grades[m[33m, [m[1;32mfeature/student-lab-grades[m[33m)[m feat: implement 1D arrays for lab grades in Student class
+* [33m07215aa[m Initial commit: додано структуру проєкту та .gitignore
