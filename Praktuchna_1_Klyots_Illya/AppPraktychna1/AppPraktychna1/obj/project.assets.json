@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Троцький практика\\Практична робота 1 правильне\\AppPraktychna1\\AppPraktychna1\\AppPraktychna1.csproj",
+      "projectUniqueName": "D:\\Троцький практика\\CSharp_OOP_University_System_Klyots_Illya\\Praktuchna_1_Klyots_Illya\\AppPraktychna1\\AppPraktychna1\\AppPraktychna1.csproj",
       "projectName": "AppPraktychna1",
-      "projectPath": "D:\\Троцький практика\\Практична робота 1 правильне\\AppPraktychna1\\AppPraktychna1\\AppPraktychna1.csproj",
+      "projectPath": "D:\\Троцький практика\\CSharp_OOP_University_System_Klyots_Illya\\Praktuchna_1_Klyots_Illya\\AppPraktychna1\\AppPraktychna1\\AppPraktychna1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Троцький практика\\Практична робота 1 правильне\\AppPraktychna1\\AppPraktychna1\\obj\\",
+      "outputPath": "D:\\Троцький практика\\CSharp_OOP_University_System_Klyots_Illya\\Praktuchna_1_Klyots_Illya\\AppPraktychna1\\AppPraktychna1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
